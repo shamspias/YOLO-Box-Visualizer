@@ -54,7 +54,9 @@ Open the provided URL in your browser. You can now:
 ## Example
 
 ![Example Screenshot](https://raw.githubusercontent.com/shamspias/YOLO-Box-Visualizer/refs/heads/main/img/1.png)
+
 ![Example Screenshot](https://raw.githubusercontent.com/shamspias/YOLO-Box-Visualizer/refs/heads/main/img/2.png)
+
 ![Example Screenshot](https://raw.githubusercontent.com/shamspias/YOLO-Box-Visualizer/refs/heads/main/img/3.png)
 
 ## Contributing
