@@ -54,6 +54,8 @@ Open the provided URL in your browser. You can now:
 ## Example
 
 ![Example Screenshot]()
+![Example Screenshot]()
+![Example Screenshot]()
 
 ## Contributing
 
